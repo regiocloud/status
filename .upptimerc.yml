@@ -15,8 +15,8 @@ status-website:
   cname: status.regio.digital
   logoUrl: https://raw.githubusercontent.com/osism/openstack-themes/main/horizon/regiocloud/static/img/logo-splash.svg
   name: REGIO.status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**REGIO.status** displays the status of all our services that are relevant for customers."
+  introMessage: If a service is down or we are planning maintenance, it will be indicated on this page. So if a service is not responding, you can see here if there is an outage or if maintenance is currently being performed.
   navbar:
     - title: Status
       href: /
