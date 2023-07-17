@@ -14,11 +14,14 @@ sites:
 status-website:
   cname: status.regio.digital
   logoUrl: https://raw.githubusercontent.com/osism/openstack-themes/main/horizon/regiocloud/static/img/logo-splash.svg
+  favicon: https://raw.githubusercontent.com/osism/openstack-themes/main/horizon/regiocloud/static/img/favicon.ico
+  faviconSvg: https://raw.githubusercontent.com/osism/openstack-themes/main/horizon/regiocloud/static/img/favicon.ico
   name: REGIO.status
+  theme: dark
   introTitle: "**REGIO.status** displays the status of all our services that are relevant for customers."
   introMessage: If a service is down or we are planning maintenance, it will be indicated on this page. So if a service is not responding, you can see here if there is an outage or if maintenance is currently being performed.
   navbar:
-    - title: Status
-      href: /
     - title: REGIO.digital
       href: https://regio.digital
+    - title: REGIO.cloud health
+      href: https://apimon.services.regio.digital/public-dashboards/17cf094a47404398a5b8e35a4a3968d4?orgId=1&refresh=5m
