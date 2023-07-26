@@ -4,7 +4,7 @@
     "url": "https://a.regiocloud.tech",
     "icon": "https://icons.duckduckgo.com/ip3/a.regiocloud.tech.ico",
     "slug": "regio-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,9 +58,9 @@
     "url": "https://element.regio.chat",
     "icon": "https://icons.duckduckgo.com/ip3/element.regio.chat.ico",
     "slug": "regio-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 533,
     "timeMonth": 962,
     "timeYear": 962,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   }
 ]
