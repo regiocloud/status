@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.okeanos.tech.ico",
     "slug": "regio-kubernetes",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.76%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.49%",
     "time": 431,
     "timeDay": 519,
     "timeWeek": 392,
@@ -61,9 +61,9 @@
     "url": "https://element.regio.chat",
     "icon": "https://icons.duckduckgo.com/ip3/element.regio.chat.ico",
     "slug": "regio-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.87%",
@@ -73,6 +73,7 @@
     "timeMonth": 652,
     "timeYear": 707,
     "dailyMinutesDown": {
+      "2023-08-31": 0,
       "2023-08-19": 54,
       "2023-07-26": 30
     }
