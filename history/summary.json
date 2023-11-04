@@ -4,18 +4,20 @@
     "url": "https://a.regiocloud.tech",
     "icon": "https://icons.duckduckgo.com/ip3/a.regiocloud.tech.ico",
     "slug": "regio-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1075,
-    "timeDay": 1454,
+    "timeDay": 1886,
     "timeWeek": 1199,
     "timeMonth": 1075,
     "timeYear": 1075,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-04": 0
+    }
   },
   {
     "name": "REGIO.kubernetes",
