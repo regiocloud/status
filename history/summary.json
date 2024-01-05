@@ -52,9 +52,9 @@
     "url": "https://auth.regio.digital",
     "icon": "https://icons.duckduckgo.com/ip3/auth.regio.digital.ico",
     "slug": "regio-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -63,7 +63,9 @@
     "timeWeek": 1011,
     "timeMonth": 1051,
     "timeYear": 984,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   },
   {
     "name": "REGIO.chat",
