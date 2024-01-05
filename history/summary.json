@@ -52,19 +52,19 @@
     "url": "https://auth.regio.digital",
     "icon": "https://icons.duckduckgo.com/ip3/auth.regio.digital.ico",
     "slug": "regio-login",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 1640,
-    "timeWeek": 1011,
-    "timeMonth": 1051,
-    "timeYear": 984,
+    "time": 983,
+    "timeDay": 1220,
+    "timeWeek": 985,
+    "timeMonth": 1043,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 9
     }
   },
   {
