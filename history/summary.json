@@ -68,34 +68,5 @@
     "dailyMinutesDown": {
       "2024-01-05": 9
     }
-  },
-  {
-    "name": "REGIO.chat",
-    "url": "https://element.regio.chat",
-    "icon": "https://icons.duckduckgo.com/ip3/element.regio.chat.ico",
-    "slug": "regio-chat",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.85%",
-    "time": 650,
-    "timeDay": 315,
-    "timeWeek": 479,
-    "timeMonth": 506,
-    "timeYear": 650,
-    "dailyMinutesDown": {
-      "2024-01-15": 23,
-      "2023-11-03": 86,
-      "2023-10-19": 59,
-      "2023-10-17": 69,
-      "2023-10-11": 46,
-      "2023-10-09": 34,
-      "2023-09-29": 10,
-      "2023-08-31": 30,
-      "2023-08-19": 54,
-      "2023-07-26": 30
-    }
   }
 ]
