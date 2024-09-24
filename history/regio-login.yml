@@ -1,7 +1,7 @@
 url: https://auth.regio.digital
-status: down
-code: 503
-responseTime: 386
-lastUpdated: 2024-09-24T14:00:13.509Z
+status: up
+code: 200
+responseTime: 810
+lastUpdated: 2024-09-24T16:39:34.699Z
 startTime: 2023-07-17T09:18:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
