@@ -1,15 +1,15 @@
 # Main config
 owner: regiocloud
 repo: uptime
-sites:
-  - name: REGIO.cloud
-    url: https://a.regiocloud.tech
-  - name: REGIO.kubernetes
-    url: https://dashboard.okeanos.tech
-  - name: REGIO.login
-    url: https://auth.regio.digital
-  - name: REGIO.chat
-    url: https://element.regio.chat
+# sites:
+#   - name: REGIO.cloud
+#     url: https://a.regiocloud.tech
+#   - name: REGIO.kubernetes
+#     url: https://dashboard.okeanos.tech
+#   - name: REGIO.login
+#     url: https://auth.regio.digital
+#   - name: REGIO.chat
+#     url: https://element.regio.chat
 
 status-website:
   cname: status.regio.digital
