@@ -1,93 +1,20 @@
 [
   {
-    "name": "REGIO.cloud",
-    "url": "https://a.regiocloud.tech",
-    "icon": "https://icons.duckduckgo.com/ip3/a.regiocloud.tech.ico",
-    "slug": "regio-cloud",
+    "name": "REGIO.digital",
+    "url": "https://regio.digital",
+    "icon": "https://icons.duckduckgo.com/ip3/regio.digital.ico",
+    "slug": "regio-digital",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 1247,
-    "timeDay": 1361,
-    "timeWeek": 1185,
-    "timeMonth": 1321,
-    "timeYear": 1306,
-    "dailyMinutesDown": {
-      "2024-07-17": 9,
-      "2024-02-24": 286
-    }
-  },
-  {
-    "name": "REGIO.kubernetes",
-    "url": "https://dashboard.okeanos.tech",
-    "icon": "https://icons.duckduckgo.com/ip3/dashboard.okeanos.tech.ico",
-    "slug": "regio-kubernetes",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 452,
-    "timeDay": 343,
-    "timeWeek": 356,
-    "timeMonth": 403,
-    "timeYear": 452,
-    "dailyMinutesDown": {
-      "2024-07-23": 10,
-      "2024-07-12": 40,
-      "2024-06-12": 44
-    }
-  },
-  {
-    "name": "REGIO.login",
-    "url": "https://auth.regio.digital",
-    "icon": "https://icons.duckduckgo.com/ip3/auth.regio.digital.ico",
-    "slug": "regio-login",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
-    "time": 937,
-    "timeDay": 754,
-    "timeWeek": 861,
-    "timeMonth": 943,
-    "timeYear": 929,
-    "dailyMinutesDown": {
-      "2025-01-02": 506,
-      "2025-01-01": 1440,
-      "2024-12-31": 758,
-      "2024-09-24": 159,
-      "2024-07-12": 40,
-      "2024-06-03": 10
-    }
-  },
-  {
-    "name": "REGIO.chat",
-    "url": "https://element.regio.chat",
-    "icon": "https://icons.duckduckgo.com/ip3/element.regio.chat.ico",
-    "slug": "regio-chat",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 551,
-    "timeDay": 470,
-    "timeWeek": 407,
-    "timeMonth": 490,
-    "timeYear": 513,
-    "dailyMinutesDown": {
-      "2024-11-17": 9,
-      "2024-08-15": 18,
-      "2024-04-12": 10,
-      "2024-03-28": 9
-    }
+    "uptimeYear": "100.00%",
+    "time": 537,
+    "timeDay": 537,
+    "timeWeek": 537,
+    "timeMonth": 537,
+    "timeYear": 537,
+    "dailyMinutesDown": {}
   }
 ]
