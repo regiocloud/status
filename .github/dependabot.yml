@@ -1,0 +1,13 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Berlin"
+    ignore:
+      # upptime/uptime-monitor versions are managed by the update-template.yml workflow
+      - dependency-name: "upptime/uptime-monitor"
+      - dependency-name: "upptime/updates"
