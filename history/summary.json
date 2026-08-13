@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/regio.digital.ico",
     "slug": "regio-digital",
     "status": "up",
-    "uptime": "92.24%",
+    "uptime": "92.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.13%",
+    "uptimeYear": "95.41%",
     "time": 774,
-    "timeDay": 956,
-    "timeWeek": 751,
-    "timeMonth": 763,
+    "timeDay": 533,
+    "timeWeek": 726,
+    "timeMonth": 755,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2025-08-29": 1157,
@@ -32,7 +32,6 @@
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
-      "2025-08-13": 1440,
       "2025-12-03": 52
     }
   }
