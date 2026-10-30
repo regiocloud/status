@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/regio.digital.ico",
     "slug": "regio-digital",
     "status": "up",
-    "uptime": "93.20%",
+    "uptime": "93.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 778,
-    "timeDay": 541,
-    "timeWeek": 738,
-    "timeMonth": 795,
-    "timeYear": 776,
+    "timeDay": 1048,
+    "timeWeek": 774,
+    "timeMonth": 800,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2025-12-03": 52
     }
